@@ -5,9 +5,14 @@ html {
 	box-sizing: inherit;
 }
 
-h1 {
-color:lime;
-}
+	h1 {
+		color:limegreen;
+		font-size:16;
+
+		}
+
+
+
 
 
 
