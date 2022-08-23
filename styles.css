@@ -18,7 +18,8 @@ html {
 
 	.homeimage
 		{
-		width:25percent;
+		width:25%;
+		display:block;
 		}
 
 
