@@ -9,10 +9,17 @@ html {
 		color:limegreen;
 		font-size:16px;
 		}
- 	.homepageheading{
+
+ 	.homepageheading
+		{
 		margin-left:30px;
 		}
 
+
+	.homeimage
+		{
+		width:25percent;
+		}
 
 
 
