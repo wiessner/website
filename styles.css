@@ -16,12 +16,13 @@ html {
 		margin-left:30px;}
 	nav{
 		margin-left:30px;
-		color:black
-		fontfamily: font-family: Optima, Segoe, Segoe UI, Candara, Calibri, Arial, 
+		color:black;
+		font-family: "Optima", Segoe, Segoe UI, Candara, Calibri, Arial, 
 		sans-serif}
 
 	p1{
-  		font-family: font-family: Optima, Segoe, Segoe UI, Candara, Calibri, Arial, 
+  		margin-left:30px;
+		font-family: "Optima", Segoe, Segoe UI, Candara, Calibri, Arial, 
 		sans-serif;}
 
 	.homeimage{
