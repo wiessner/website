@@ -5,6 +5,9 @@ html {
 	box-sizing: inherit;}
 	body {
 		background-color:#F5F5F5;}
+ * {
+font-family: "Optima", Segoe, Segoe UI, Candara, Calibri, Arial, sans-serif";
+}
 
 	h1{
 		color:black;
