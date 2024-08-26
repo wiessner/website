@@ -17,10 +17,11 @@ html {
 		color:black;
 		font-family: "Optima", Segoe, Segoe UI, Candara, Calibri, Arial, 
 		sans-serif;
-		text-transform:uppercase;}
+		text-transform:uppercase;
+		}
 
 	.nav{
-		padding-left:15 px;}
+		margin-left:30 px;}
 
 	h2{
 		color:black;
