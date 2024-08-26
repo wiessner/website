@@ -5,24 +5,25 @@ html {
 	box-sizing: inherit;
 }
 
-	h1 {
-		color:aquamarine;
-		font-size:16px;
+	h1{
+		color:black;
+		font-size:42px;
+		font-family:
 		}
 
- 	.homepageheading
-		{
+ 	.homepageheading{
 		margin-left:30px;
 		}
 
-
-	.homeimage
-		{
+	.homeimage{
 		width:25%;
 		display:block;
 		}
 
-
+	#nav{
+		color:black
+	}
+		
 
 
 
