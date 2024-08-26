@@ -15,6 +15,7 @@ html {
 		margin-left:30px;}
 
 	nav{
+		float: left;
 		margin-left:30px;}
 
 	.navbutton{
