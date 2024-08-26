@@ -9,7 +9,7 @@ html {
 	h1{
 		color:black;
 		font-size:32px;
-		font-family:"palatino";
+		font-family:"libertinus-sans";
 		text-transform: uppercase;}
 
  	.homepageheading{
@@ -25,6 +25,7 @@ html {
 		font-family: "Optima", Segoe, Segoe UI, Candara, Calibri, Arial, 
 		sans-serif;}
 
+	a{color:black;}
 	a:visited{text-decoration: none;}
 	a:hover{text-decoration: none;}
 	a:active{text-decoration: none;}
