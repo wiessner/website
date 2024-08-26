@@ -2,32 +2,33 @@ html {
 	box-sizing: border-box;
 }
 *, *:before, *:after {
-	box-sizing: inherit;
-}
-
-body {
-  background-color:#f0f8ff;
-}
+	box-sizing: inherit;}
+	body {
+		background-color:#f0f8ff;}
 
 	h1{
 		color:black;
-		font-size:42px;
-		font-family:
-		}
+		font-size:32px;
+		font-family:"font-family: Optima, Segoe, Segoe UI, Candara, Calibri, Arial, sans-serif"
+		text-transform: uppercase}
 
  	.homepageheading{
+		margin-left:30px;}
+	nav{
 		margin-left:30px;
-		}
+		color:black
+		fontfamily: font-family: Optima, Segoe, Segoe UI, Candara, Calibri, Arial, 
+		sans-serif}
+
+	p1{
+  		font-family: font-family: Optima, Segoe, Segoe UI, Candara, Calibri, Arial, 
+		sans-serif;}
 
 	.homeimage{
 		width:25%;
-		display:block;
-		}
+		display:block;}
 
-	#nav{
-		color:black
-	}
-		
+	
 
 
 
