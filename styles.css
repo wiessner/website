@@ -17,6 +17,15 @@ html {
 		font-family: "Optima", Segoe, Segoe UI, Candara, Calibri, Arial, 
 		sans-serif;
 		text-transform:uppercase;}
+
+	h2{
+		color:black;
+		font-size:24px;
+		font-family: "Optima", Segoe, Segoe UI, Candara, Calibri, Arial, 
+		sans-serif;
+		text-transform:uppercase;
+		margin-left:30px;}
+
 	p{
 		color:black;
 		font-size:18px;
@@ -55,6 +64,13 @@ html {
 		color:black;
 		font-size:28px;
 		font-family:"Verdana";
+		text-transform:uppercase;}
+
+	h2{
+		color:black;
+		font-size:24px;
+		font-family: "Optima", Segoe, Segoe UI, Candara, Calibri, Arial, 
+		sans-serif;
 		text-transform:uppercase;}
 	p{
 		color:black;
