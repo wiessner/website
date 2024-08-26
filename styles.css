@@ -10,7 +10,8 @@ html {
 		color:black;
 		font-size:32px;
 		font-family:"Optima", Segoe, Segoe UI, Candara, Calibri, Arial, 
-		sans-serif;}
+		sans-serif;
+		text-transform:uppercase;}
 
  	.homepageheading{
 		margin-left:30px;}
