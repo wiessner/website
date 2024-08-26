@@ -25,7 +25,8 @@ html {
 		font-family: "Optima", Segoe, Segoe UI, Candara, Calibri, Arial, 
 		sans-serif;
 		display:block;
-		max-width:1000px}
+		max-width:1000px;
+		margin-bottom:30px}
 	a{
 		color:black;text-decoration: none;}
 
