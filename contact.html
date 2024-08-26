@@ -15,13 +15,14 @@
   <a href="contact.html"class="navbutton">Contact</a>  
 </nav>
 <p><br /></p>
+   <form action="form-process.php" method="POST" class="formcarry-form">
   <form action="/action_page.php">
+    <label for="name">name</label><br>
+  <input type="text" id="name" name="name"required><br>
     <label for="email">email</label><br>
-  <input type="text" id="email" name="email"><br>
-    <label for="subject">subject</label><br>
-      <input type="text" id="subject" name="subject"><br>
+      <input type="text" id="email" name="email"required><br>
     <label for="message">message</label><br>
-  <input type="text" id="message" name="message"><br>
+  <input type="text" id="message" name="message"required><br>
     <input type="submit" value=Send>
 </form>
 
