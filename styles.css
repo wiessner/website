@@ -21,6 +21,7 @@ html {
 		sans-serif;
 		text-transform:uppercase;}
 
+
 	p{
   		margin-left:30px;
 		font-family: "Optima", Segoe, Segoe UI, Candara, Calibri, Arial, 
@@ -31,7 +32,8 @@ html {
 
 	.homeimage{
 		width:25%;
-		display:block;}
+		display:block;
+		margin-left:30px;}
 
 	
 
