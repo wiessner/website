@@ -26,8 +26,13 @@ html {
 		sans-serif;
 		margin-left:30px;
 		max-width:1000px;}
-	p4{
-		margin-bottom:30px;}
+	pf{
+		color:black;
+		font-size:18px;
+		font-family: "Optima", Segoe, Segoe UI, Candara, Calibri, Arial, 
+		sans-serif;
+		margin-left:30px;
+		max-width:1000pxmargin-bottom:30px;}
 		
 	a{
 		color:black;
