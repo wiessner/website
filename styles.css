@@ -9,8 +9,8 @@ html {
 	h1{
 		color:black;
 		font-size:32px;
-		font-family:"libertinus-sans";
-		text-transform: uppercase;}
+		font-family:"Optima", Segoe, Segoe UI, Candara, Calibri, Arial, 
+		sans-serif;}
 
  	.homepageheading{
 		margin-left:30px;}
@@ -25,7 +25,8 @@ html {
 		font-family: "Optima", Segoe, Segoe UI, Candara, Calibri, Arial, 
 		sans-serif;}
 
-	a{color:black;text-decoration: none;}
+	a{
+		color:black;text-decoration: none;}
 
 	.homeimage{
 		width:25%;
