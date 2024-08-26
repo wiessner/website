@@ -40,6 +40,7 @@ html {
 		margin-bottom:30px;
 		max-width:1000px}
 	footer{
+		position:absolute;
 		margin-bottom:30px;}
 
 @media (max-width: 600px) {
