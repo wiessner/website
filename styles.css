@@ -58,6 +58,16 @@ html {
 		margin-bottom:30px;
 		max-width:1000px}
 
+	li{
+		color:black;
+		font-size:18px;
+		font-family: "Optima", Segoe, Segoe UI, Candara, Calibri, Arial, 
+		sans-serif;
+		margin-left:30px;
+		margin-right:30px;
+		max-width:1000px;}
+		
+
 	label{
 		color:black;
 		font-size:18px;
