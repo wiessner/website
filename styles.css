@@ -18,12 +18,16 @@ html {
 		margin-left:30px;
 		color:black;
 		font-family: "Optima", Segoe, Segoe UI, Candara, Calibri, Arial, 
-		sans-serif}
+		sans-serif;}
 
 	p1{
   		margin-left:30px;
 		font-family: "Optima", Segoe, Segoe UI, Candara, Calibri, Arial, 
 		sans-serif;}
+
+	a:visited{text-decoration: none;}
+	a:hover{text-decoration: none;}
+	a:active{text-decoration: none;}
 
 	.homeimage{
 		width:25%;
