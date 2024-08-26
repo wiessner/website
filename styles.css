@@ -18,7 +18,8 @@ html {
 		margin-left:30px;
 		color:black;
 		font-family: "Optima", Segoe, Segoe UI, Candara, Calibri, Arial, 
-		sans-serif;}
+		sans-serif;
+		text-transform:uppercase;}
 
 	p{
   		margin-left:30px;
